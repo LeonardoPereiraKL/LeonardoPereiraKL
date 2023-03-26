@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 - 🌟 My name is Leonardo Pereira you can call me leo 🌟
-- 🧐 I'm currently studying JavaScrypt, Html, Css, NodeJs, React.
+- 🧐 I'm currently studying Java...
 
 
 
