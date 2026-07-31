@@ -6,11 +6,3 @@
 
 - 🌟 My name is Leonardo Pereira you can call me leo 🌟
 - 🧐 I'm currently studying Java...
-
-
-
-
-
-
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPereiraKL&layout=compact&langs_count=7&theme=dracula"/>
